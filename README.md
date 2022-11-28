@@ -15,3 +15,7 @@ Ejercicio 16: https://oscar08850.github.io/UD5_29/EJ16/
 Ejercicio 17: https://oscar08850.github.io/UD5_29/EJ17/
 
 Ejercicio 18: https://oscar08850.github.io/UD5_29/EJ18/
+
+Ejercicio 19: https://oscar08850.github.io/UD5_29/EJ19/
+
+Ejercicio 20: https://oscar08850.github.io/UD5_29/EJ20/
