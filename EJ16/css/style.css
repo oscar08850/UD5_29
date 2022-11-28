@@ -1,0 +1,50 @@
+table {
+    width: 50%;
+    background-color: white;
+    border: rgb(6, 218, 233) 1px solid;
+    border-collapse: separate;
+    box-shadow: 4px 4px 1px#8a8a8a;
+}
+
+.verde{
+    background-color: lightgreen;
+}
+
+.naranja{
+    background-color: rgb(250, 150, 111);
+}
+
+
+.amarillo {
+    background-color: rgb(243, 243, 146);
+}
+
+.perro{
+    background-image: url("../imagen/pat.jpg");
+    background-size: 80px;
+}
+
+
+.tabla,
+th {
+    border: rgb(6, 218, 233) 1px solid;
+
+}
+
+.tabla,
+td {
+    border: rgb(6, 218, 233) 1px solid;
+}
+
+
+#dtodo {
+    position: absolute;
+    text-align: center;
+}
+
+#dtabla {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    width: 100%;
+}

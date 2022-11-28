@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 50%;
+    background-color: white;
+    border: rgb(6, 218, 233) 1px solid;
+    border-collapse: separate;
+    box-shadow: 4px 4px 1px#8a8a8a;
+}
+
+.amarillo {
+    background-color: rgb(243, 243, 146);
+}
+
+
+.tabla,
+th {
+    border: rgb(6, 218, 233) 1px solid;
+
+}
+
+.tabla,
+td {
+    border: rgb(6, 218, 233) 1px solid;
+}
+
+
+#dtodo {
+    position: absolute;
+    text-align: center;
+}
+
+#dtabla {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    width: 100%;
+}
