@@ -14,7 +14,7 @@ table {
     border: 1px black solid;
     text-align: center;
     display: inline-block;
-    background-image: url(/EJ17/imagen/back_mantel.jpg);
+    background-image: url("/EJ17/imagen/back_mantel.jpg");
 }
 
 .B {
