@@ -30,7 +30,7 @@ table {
     width: 125px;
     height: 120px;
     margin: 15px;
-    background-image: url(/EJ17/imagen/back_mantel.jpg);
+    background-image: url("./../imagen/imagen/back_mantel.jpg");
 }
 
 .C {
@@ -40,7 +40,7 @@ table {
     border: 1px black solid;
     text-align: center;
     display: inline-block;
-    background-image: url(/EJ17/imagen/back_mantel.jpg);
+    background-image: url("./../imagen/imagen/back_mantel.jpg");
     background-repeat: no-repeat;
     background-size: 160px;
 }
@@ -52,7 +52,7 @@ table {
     border: 1px black solid;
     text-align: center;
     display: inline-block;
-    background-image: url(/EJ17/imagen/back_mantel.jpg);
+    background-image: url("./../imagen/imagen/back_mantel.jpg");
     background-repeat: no-repeat;
     background-size: 100px;
     background-position: 50%;
@@ -67,7 +67,7 @@ table {
     border: 1px black solid;
     text-align: center;
     display: inline-block;
-    background-image: url(/EJ17/imagen/dh.jpg);
+    background-image: url("./../imagen/dh.jpg");
     background-size: 160px;
 }
 
@@ -79,7 +79,7 @@ table {
     border: 1px black solid;
     text-align: center;
     display: inline-block;
-    background-image: url(/EJ17/imagen/dh.jpg);
+    background-image: url("./../imagen/dh.jpg");
     background-repeat: no-repeat;
     background-size: 120px;
     background-position: 50%;
@@ -97,7 +97,7 @@ table {
     border: 1px black solid;
     text-align: center;
     display: inline-block;
-    background-image: url(/EJ17/imagen/dh_2.jpg);
+    background-image: url("./../imagen/dh_2.jpg");
     background-repeat: no-repeat;
     background-size: 150px;
     background-position: 10%;
@@ -112,7 +112,7 @@ table {
     border: 1px black solid;
     text-align: center;
     display: inline-block;
-    background-image: url(/EJ17/imagen/dh_3.jpg);
+    background-image: url("./../imagen/dh_3.jpg");
     background-repeat: no-repeat;
     background-size: 85px;
     background-position: 50%;
