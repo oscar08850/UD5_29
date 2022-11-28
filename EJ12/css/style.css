@@ -1,0 +1,18 @@
+
+table{
+    border-collapse: co;
+    border: rgb(6, 218, 233) 1px solid;
+    box-shadow:4px 4px 1px#8a8a8a;
+}
+
+.tabla, th{
+    background-color:  #023030;
+    color:  #cffdcf;
+    border: rgb(6, 218, 233) 1px solid;
+
+}
+.tabla, td{
+    background-color:  #c9ffc9;
+    border: rgb(6, 218, 233) 1px solid;
+    color: black;
+}
