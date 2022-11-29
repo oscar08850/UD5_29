@@ -30,7 +30,7 @@ table {
     width: 125px;
     height: 120px;
     margin: 15px;
-    background-image: url("./../imagen/imagen/back_mantel.jpg");
+    background-image: url("./../imagen/back_mantel.jpg");
 }
 
 .C {
@@ -40,7 +40,7 @@ table {
     border: 1px black solid;
     text-align: center;
     display: inline-block;
-    background-image: url("./../imagen/imagen/back_mantel.jpg");
+    background-image: url("./../imagen/back_mantel.jpg");
     background-repeat: no-repeat;
     background-size: 160px;
 }
@@ -52,7 +52,7 @@ table {
     border: 1px black solid;
     text-align: center;
     display: inline-block;
-    background-image: url("./../imagen/imagen/back_mantel.jpg");
+    background-image: url("./../imagen/back_mantel.jpg");
     background-repeat: no-repeat;
     background-size: 100px;
     background-position: 50%;
